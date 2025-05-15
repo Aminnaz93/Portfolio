@@ -2,12 +2,14 @@ body{
     background-color: antiquewhite;
 }
 
-.Rubrik{
-    color: lightblue;
-    justify-content: center;
-    text-align: center;
-    font-size: 40px;
-    border: 2px color solid black;
+.Rubrik {
+  color: lightblue;
+  text-align: center;
+  font-size: 40px;
+  border: auto;
+  padding: 10px;
+  margin: 20px;
+
 }
 
 .minirubrik{
@@ -23,14 +25,14 @@ body{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 50%;
-    border: 5px solid lightblue;
+    border-radius: 30%;
+    border: 3px solid lightblue;;
     object-fit: cover;
 }
 
 hr{
-    border: 1px solid lightblue;
-    width: 1000%;
+    border: 2px solid lightblue;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
